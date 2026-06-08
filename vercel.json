@@ -1,0 +1,11 @@
+{
+  "env": {
+    "NEXT_PUBLIC_SUPABASE_URL": "@supabase_url",
+    "NEXT_PUBLIC_SUPABASE_ANON_KEY": "@supabase_anon_key",
+    "SUPABASE_SERVICE_ROLE_KEY": "@supabase_service_role_key",
+    "VITE_SUPABASE_URL": "@supabase_url",
+    "VITE_SUPABASE_ANON_KEY": "@supabase_anon_key",
+    "VITE_GOOGLE_CLIENT_ID": "@google_client_id",
+    "VITE_GOOGLE_AUTH_PROXY": "@google_auth_proxy"
+  }
+}
